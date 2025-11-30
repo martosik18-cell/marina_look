@@ -228,7 +228,7 @@ body {
 .profile-photo {
   height: 100%;
   object-fit: cover;
-  aspect-ratio: 200/220;
+  width: 100%;
   object-position: 50% 40%;
 }
 
